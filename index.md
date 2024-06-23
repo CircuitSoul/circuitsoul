@@ -1,4 +1,3 @@
 ---
-title: Froyd
 layout: default
 ---
