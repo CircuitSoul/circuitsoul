@@ -1,4 +1,4 @@
 ---
-title: [Froyd]
+title: Windows Stuffs
 layout: default
 ---
